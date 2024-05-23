@@ -61,11 +61,12 @@
 ## Working patches for Revanced CLI
 
 ### TikTok 32.5.3
-As of recently, TikTok has became unable to patch through Revanced Manager due to memory issues. List down below are patch versions that are compatible with recommended TikTok v.32.5.3.
+As of recently, patching TikTok through [Revanced Manager](https://github.com/revanced/revanced-manager) is not possible due to memory issues and I have encountered issues with latest patch versions in Revanced CLI. Listed down below are versions that I managed to get it working with TikTok v.32.5.3.
 
 - [Revanced CLI v.4.4.0](https://github.com/ReVanced/revanced-cli/releases/tag/v4.4.0)
 - [Revanced Patches v.4.4.0](https://github.com/ReVanced/revanced-patches/releases/tag/v4.4.0)
 - [Revanced Integrations v.1.5.0](https://github.com/ReVanced/revanced-integrations/releases/tag/v1.5.0)
+
 
 > [!WARNING]  
 > Under `docs/` you will find symbolic links to the documentation of the respective repositories.
