@@ -58,17 +58,13 @@
    Continuing the legacy of Vanced
 </p>
 
-# 🗄 ReVanced Documentation
+## Working patches for Revanced CLI
 
-Collection of all ReVanced documentation.
+### TikTok v.32.5.3
 
-## 📖 Table of contents
-
-- [💊 ReVanced Manager](./docs/revanced-manager): Documentation and usage guides for ReVanced Manager
-- [💻 ReVanced CLI](./docs/revanced-cli): Documentation and usage guides for ReVanced CLI
-- [💉 ReVanced Patcher](./docs/revanced-patcher): Documentation and usage guides for ReVanced Patcher
-- [🛠️ ReVanced Development](./docs/revanced-development): Documentation to setup a development environment for ReVanced
-- [🟠 ReVanced Other](./docs/revanced-other): Miscellaneous documents used on our platforms, such as Reddit or Discord
+- [Revanced CLI v.4.4.0](https://github.com/ReVanced/revanced-cli/releases/tag/v4.4.0)
+- [Revanced Patches v.4.4.0](https://github.com/ReVanced/revanced-patches/releases/tag/v4.4.0)
+- [Revanced Integrations v.1.5.0](https://github.com/ReVanced/revanced-integrations/releases/tag/v1.5.0)
 
 > [!WARNING]  
 > Under `docs/` you will find symbolic links to the documentation of the respective repositories.
